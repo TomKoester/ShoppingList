@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ShoppingList</string>
+    <string name="loginbtn">Login</string>
+    <string name="registerbtn">Register</string>
+    <string name="mainActivityTitle">Welcome Shoppers</string>
+    <string-array name="laden_array">
+        <item>Netto</item>
+        <item>Edeka</item>
+        <item>Rewe</item>
+    </string-array>
 </resources>
