@@ -96,10 +96,6 @@ public class DashboardActivity extends AppCompatActivity implements AdapterView.
     }
     public void showShoppingCart(View view) {
         Intent intent = new Intent(DashboardActivity.this, WarenkorbActivity.class);
-        //intent.putParcelableArrayListExtra(items.TYPE, items)
-        //Bundle args = new Bundle();
-        //args.putSerializable("ARRAYLIST",(Serializable) items);
-        //intent.putExtra("BUNDLE", args);
         startActivity(intent);
     }
 

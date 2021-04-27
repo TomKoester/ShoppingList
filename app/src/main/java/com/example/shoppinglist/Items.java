@@ -19,7 +19,8 @@ public class Items {
         return name;
     }
 
-    public int getQuantity() {
+    public int getQuantity()
+    {
         return quantity;
     }
 
